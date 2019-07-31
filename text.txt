@@ -10,4 +10,8 @@ This is 5 line for commit 5
 
 This is 6 line for commit 6 and psuhing without pass and name
 
+
 I add a line unaware that someone from another directory changed the code
+
+This is to add conflict
+
