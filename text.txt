@@ -1,3 +1,5 @@
 This is first line
 
 This is second line for commit 2
+
+This is 3 line for commit 3
